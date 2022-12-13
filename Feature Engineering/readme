@@ -1,1 +1,13 @@
+All Feature Enginerring Topics in Machine Learning
 
+1. Standrization
+2. Normalization
+3. Encoding
+  3.1 Ordinal Encoding
+  3.2 One-Hot Encoding
+4. Function Transformer
+5. Power Transformer
+6. All about PipeLines
+7. Handling Mixed Data
+  7.1 Handling Mixed Data and Time
+  
